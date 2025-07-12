@@ -32,11 +32,12 @@
 
 ## 💻 Tech I Play With
 
-**Languages:** Java, Python, C++  
-**Web & Cloud:** Firebase, MongoDB, Flask, REST APIs  
-**ML Stack:** scikit-learn, GPT-2, Pandas, Vision API  
-**Tools:** Git, Postman, VS Code, Android Studio  
-**Buzzwords I love:** NLP, OCR, CI/CD, cloud functions, distributed design
+🟨 `Java`  🐍 `Python`  ➕ `C++`  
+☁️ `Firebase`  🍃 `MongoDB`  🐍 `Flask`  🌐 `REST APIs`  
+🤖 `scikit-learn`  🧠 `GPT-2`  📊 `Pandas`  👁️ `Vision API`  
+🐙 `Git`  🛠️ `Postman`  🖥️ `VS Code`  🤖 `Android Studio`  
+✨ **Buzzwords I love:** NLP, OCR, CI/CD, cloud functions, distributed design
+
 
 ---
 
