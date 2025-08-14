@@ -18,7 +18,7 @@
 ## 🌟 Projects That Define Me
 
 🛠️ **InfraWise** – Real-time weather-aware construction planning  
-`Flask + GPT-2 + OpenWeather API + Firebase`
+`Flask + GPT-2 + OpenWeather API + MongoDB`
 
 🍲 **FoodLoop** – A smart platform to rescue food & fight hunger  
 `ML + Google Vision API + Blockchain + Firebase`
