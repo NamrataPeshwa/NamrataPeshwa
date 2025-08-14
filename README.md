@@ -24,7 +24,7 @@
 `ML + Google Vision API + Blockchain + Firebase`
 
 📷 **GroSnap** – OCR-powered grocery app with smart ordering  
-`OCR + WhatsApp API + MongoDB`
+`OCR + WhatsApp API + Firebase`
 
 > Want to see more? Check out my pinned repos!
 
