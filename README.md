@@ -1,8 +1,8 @@
 # 💫 Hey, I'm Namrata Peshwa 👩‍💻
 
-🎓 Pre-final-year CS + Design student  
+🎓 final-year CS + Design student  
 ⚙️ Full-stack + ML enthusiast | Hackathon lover | Cloud explorer  
-📍 Based in India | Open to internships, collabs, and coffee chats ☕️
+📍 Based in India | Open to internships, collabs, freelance opportunities, and coffee chats ☕️
 
 ---
 
