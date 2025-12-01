@@ -11,7 +11,6 @@
 - 🔧 Building smart Android apps and exploring AI/ML tools  
 - 🏆 Taking part in hackathons with solutions in climate, food tech, and OCR automation  
 - 🌐 Diving into GenAI, distributed systems, and cloud-native design  
-- 🎯 Dreaming big (Google SWE Intern, here I come!)
 
 ---
 
