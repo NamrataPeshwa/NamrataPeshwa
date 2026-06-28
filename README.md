@@ -8,9 +8,9 @@
 
 ## 🚀 What I'm Up To
 
-- 🔧 Building smart Android apps and exploring AI/ML tools  
-- 🏆 Taking part in hackathons with solutions in climate, food tech, and OCR automation  
-- 🌐 Diving into GenAI, distributed systems, and cloud-native design
+- Building smart Android apps and exploring AI/ML tools  
+- Taking part in hackathons with solutions in climate, food tech, and OCR automation  
+- Diving into GenAI, distributed systems, and cloud-native design
 - Interning at CGI 
   
 ---
